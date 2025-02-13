@@ -29,6 +29,7 @@ public class Main {
         e.sum();       // Method of Dog class
         e.bark();
         e.makeSound();
-
+       Tiger t = new Tiger();
+        t.RunFaster();
     }
 }
